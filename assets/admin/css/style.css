@@ -1,0 +1,21 @@
+hr.batas{
+	border :1px solid #b8b8b8;
+	margin-bottom:0;
+}
+.text-default{
+	color: black;
+}
+.subtxt{
+	margin-bottom: 0;
+}
+.txt{
+	margin-top: 0;
+}
+
+.subtxt, .txt{
+	font-size: 12px;
+	font-style: italic;
+}
+
+
+
